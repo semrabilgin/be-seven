@@ -1,7 +1,5 @@
-remote: Enumerating objects: 4, done.
-remote: Counting objects: 100% (4/4), done.
-remote: Compressing objects: 100% (3/3), done.
-remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (4/4), done.
-semrabilgin@Semras-MBP Git % 
-semrabilgin@Semras-MBP Git % 
+1."Nothing is impossible, the word itself says I am possible"
+2. change is the result of all tru learning. Leo buscaglia
+3."Though no one can go back and make a brand new start, anyone can starts from now and male a brand new ending." - Carl Bard
+4. "be yourself; everyone else is already taken.: - Oscar Wilde
+5. "You miss 100 % of the shots you don not take."- Wayne Greyzky 
